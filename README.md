@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SoodGen
-- 👀 I’m interested in Polytrade  
+- 👋 Hi, I’m @SoodGen 
 - 🌱 I’m currently learning How to code
-- 💞️ I’m looking to collaborate on Product and Fintech
-- 📫 How to reach me ashish@polytrade.finance
+- 💞️ I’m looking to collaborate on Product
+- 📫 How to reach me soodgen@gmail.com
 - 
 
 <!---
